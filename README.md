@@ -1,2 +1,2 @@
 # log4j2
-Apache Log4jのテスト
+Apache Log4j 2のテスト
